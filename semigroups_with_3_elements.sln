@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "semigroups_with_3_elements", "semigroups_with_3_elements.csproj", "{448C7A14-4741-43E6-A0E7-AABF54D0C7DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{448C7A14-4741-43E6-A0E7-AABF54D0C7DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448C7A14-4741-43E6-A0E7-AABF54D0C7DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448C7A14-4741-43E6-A0E7-AABF54D0C7DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448C7A14-4741-43E6-A0E7-AABF54D0C7DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3D1AC77-9D91-471B-B987-DE8441A4FDE4}
+	EndGlobalSection
+EndGlobal
